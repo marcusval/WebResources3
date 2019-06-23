@@ -66,7 +66,7 @@ namespace WebResources3.Controllers
             };
         }
 
-        // POST api/Account/Logout
+        // POST api/Account/Logou
         [Route("Logout")]
         public IHttpActionResult Logout()
         {
